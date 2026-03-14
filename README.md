@@ -46,6 +46,8 @@ Developed by: RegisterNumber:*/
 
 **Timing Diagram**
 
+https://github.com/vharini24/BOOLEAN_FUNCTION_MINIMIZATION/blob/main/exp2_waveform.png?raw=true
+
 **Result:**
 
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
