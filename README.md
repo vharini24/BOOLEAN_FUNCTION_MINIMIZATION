@@ -57,13 +57,16 @@ Developed by: RegisterNumber:*/  212225040113
 
 **Output:**
 
-**RTL**
 
-https://github.com/vharini24/BOOLEAN_FUNCTION_MINIMIZATION/blob/main/exp2.png?raw=true
+**RTL**
+![alt text](exp2.png)
+
+
+
 
 **Timing Diagram**
+![alt text](exp2_waveform.png)
 
-https://github.com/vharini24/BOOLEAN_FUNCTION_MINIMIZATION/blob/main/exp2_waveform.png?raw=true
 
 **Result:**
 
